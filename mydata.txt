@@ -1,0 +1,2 @@
+This is beginning of my Linux Journey
+I am writing the data in the file using command not editor
